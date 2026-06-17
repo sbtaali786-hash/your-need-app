@@ -1,0 +1,6 @@
+{
+  "name": "YOUR NEED",
+  "description": "YOUR NEED is a two-sided marketplace app where buyers post what they need and sellers compete with tailored offers. Connect, chat, and complete deals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
